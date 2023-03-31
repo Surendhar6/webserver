@@ -29,6 +29,11 @@ Testing the webserver
 ## PROGRAM:
 
 ## OUTPUT:
+### Server Output:
+![serverop jpg](https://user-images.githubusercontent.com/118352907/229150085-2a9daba6-f51f-4b44-a559-92dac366e62e.png)
+
+### Client Output:
+![clientop jpg](https://user-images.githubusercontent.com/118352907/229150186-03b2a0e5-cda6-46ec-9658-11845df7f6bf.png)
 
 ## RESULT:
-The program is executed succesfully
+The program is executed succesfully.
